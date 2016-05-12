@@ -10,7 +10,7 @@ The project has been initially developed in collaboration with Davide Mazza.
 
 **NOTE**: executables are created in bin folder, so that Git doesn't keep track of them.
 
-# Running modules on different machines
+## Running modules on different machines
 In **client.c** file, it is possible to define the IP address of the machine where **server** module is running (localhost by default).  
 To enable this option, compile **client** module typing `$ gcc client.c -lpthread -o bin/client -DCUSTOM_IP`.  
 
