@@ -1,5 +1,5 @@
 # Talk
-Very simple chat system for Unix OS, developed within “Operating System” course of my BoS of Computer Science &amp; Control Engineering (submitted in June 2015). It is written in C language and is based on socket programming.  
+Very simple chat system for Unix OS, developed within “Operating System” course (A.Y. 2014/2015) of my BoS of Computer Science &amp; Control Engineering (submitted in June 2015). It is written in C language and is based on socket programming.  
 The project has been initially developed in collaboration with Davide Mazza.
 
 # How to run
