@@ -8,7 +8,7 @@ The project has been initially developed in collaboration with Davide Mazza.
 3. Run **server** module to initialize the system, typing `$ bin/server`.  
 4. Run as many **clients** as wanted, typing `$ bin/client` (on many different terminals).
 
-**NOTE**: executables are created in bin folder, so that Git doesn't keep track of them.
+**NOTE**: executables are created in bin folder, so that Git does not keep track of them.
 
 ## Running modules on different machines
 In **client.c** file, it is possible to define the IP address of the machine where **server** module is running (localhost by default).  
