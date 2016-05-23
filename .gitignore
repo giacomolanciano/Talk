@@ -71,4 +71,4 @@ local.properties
 TODO
 
 # binaries
-bin/
+bin/*
